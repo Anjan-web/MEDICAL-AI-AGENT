@@ -2,8 +2,7 @@ import streamlit as st
 import requests
 
 # ✅ Your ngrok URL — update this when ngrok restarts
-API_URL = "https://gratitude-feminist-spinach.ngrok-free.dev/ask"
-
+API_URL = "https://anjandata-medical-ai-agent.hf.space/ask"
 st.set_page_config(
     page_title="Medical AI Agent",
     page_icon="🏥",
